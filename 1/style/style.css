@@ -1,0 +1,9 @@
+/*
+	This is a comment in a CSS file. They're just like the HTML comments
+	you saw in the other file, but because CSS is a different language
+	it has a different syntax for comments. Also, you just read and (maybe)
+	understood the word 'syntax', NERD!
+*/
+html {
+	font-family: sans-serif;
+}
